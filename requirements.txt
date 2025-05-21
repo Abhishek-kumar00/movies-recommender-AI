@@ -2,4 +2,4 @@ phidata
 groq
 streamlit
 python-dotenv
-
+exa_py
